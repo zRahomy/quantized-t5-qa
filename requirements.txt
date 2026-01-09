@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+evaluate
+bitsandbytes
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter

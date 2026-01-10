@@ -119,7 +119,7 @@ https://rajpurkar.github.io/SQuAD-explorer/
 
 ---
 
-## 🏫 Course Context
+##  Course Context
 
 This project was developed as the **final course project** for  
 **ARI5501 – Natural Language Processing**.
